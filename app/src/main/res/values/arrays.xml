@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="survey_questions">
+        <item>Як вас звати?</item>
+        <item>Скільки вам років?</item>
+        <item>Якою мобільною платформою ви користуєтеся найчастіше?</item>
+        <item>Що для вас найважливіше у мобільному застосунку?</item>
+        <item>Які побажання або коментарі ви хочете залишити?</item>
+    </string-array>
+</resources>

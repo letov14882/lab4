@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Форма опитування</string>
+    <string name="app_subtitle">Лабораторна робота 4</string>
+    <string name="question_progress">Питання %1$d з %2$d</string>
+    <string name="answer_hint">Ваша відповідь</string>
+    <string name="previous">Назад</string>
+    <string name="next">Далі</string>
+    <string name="save">Зберегти</string>
+    <string name="new_form">Нова анкета</string>
+    <string name="saved_answers_title">Збережені відповіді</string>
+    <string name="refresh">Оновити</string>
+    <string name="clear_file">Очистити файл</string>
+    <string name="reset_form">Очистити форму</string>
+    <string name="empty_answer_error">Введіть відповідь перед переходом далі.</string>
+    <string name="file_path_prefix">Файл:</string>
+    <string name="no_saved_answers">Збережених відповідей ще немає.</string>
+    <string name="saved_success">Анкету збережено.</string>
+    <string name="submission_header">Опитування від %1$s</string>
+    <string name="answer_label">Відповідь: %1$s</string>
+    <string name="clear_form_title">Очистити форму?</string>
+    <string name="clear_form_message">Поточні незбережені відповіді буде видалено.</string>
+    <string name="clear_file_title">Очистити файл?</string>
+    <string name="clear_file_message">Усі збережені анкети буде видалено з локального файлу.</string>
+    <string name="clear">Очистити</string>
+    <string name="cancel">Скасувати</string>
+</resources>
